@@ -21,10 +21,10 @@ export const Task = ({
     as="li"
     _notLast={{
       borderBottom: "1px",
-      borderColor: "gray.200",
+      borderColor: "gray.300",
     }}
     h={12}
-    bg="white"
+    bg="whiteAlpha.900"
     alignItems="center"
     _hover={{
       bgGradient: "linear(to-b,  brand.100,  brand.50)",
